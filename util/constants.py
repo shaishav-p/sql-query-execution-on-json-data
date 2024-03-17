@@ -1,0 +1,6 @@
+SELECT = "SELECT"
+FROM = "FROM"
+WHERE = "WHERE"
+LIMIT = "LIMIT"
+
+NEWLINES = "\n\n"
