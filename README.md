@@ -4,7 +4,7 @@
 This Python project allows SQL querying on an array of flat JSON objects. It supports `SELECT (comma separated list of cols or *) FROM table WHERE (conditions) LIMIT (integer);` queries. Currently, the project does not support group by, join, subqueries etc.
 
 ## Installation
-1. Clone the repository to your local machine using `git clone <repository_link>`.
+1. Clone the repository to your local machine using `git clone https://github.com/shaishav-p/sql-query-execution-on-json-data.git`.
 2. Navigate to the project directory using `cd <project_directory>`.
 3. Install the required dependencies using `pip install -r requirements.txt`.
 
